@@ -1,6 +1,0 @@
-token= NTIzNjI2ODUzNDkyMDY0MjY3.Dvqr_w.Cl7i-z15-z9KQlgswZ6rBgKCZC0
-owner= 498991974393708554
-prefix= !
-game= 
-stayinchannel= true
-songinstatus= true
